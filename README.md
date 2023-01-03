@@ -1,5 +1,5 @@
 ## Overview
- * Tools Used: VSCode, Figma, Sketch, Github, AWS, Git, Canva, Blender
+ * Tools Used: VSCode, SublimeText 2/3, Figma, Sketch, Github, Amazon Web Services, Git, Canva, Blender
  * Frameworks: ReactNative, NodeJS, Python, VueJS
  * Languages: HTML, CSS, Javascript, Python
  
