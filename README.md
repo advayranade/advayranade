@@ -6,7 +6,7 @@
  
 ## Contact Me
 * Name: Advay R
-* Email: advayranade25@protonmail.com
+* Email: advaymranade@gmail.com
 
 ## Portfolio
 * EatLogGo: A webapp to track what you eat
