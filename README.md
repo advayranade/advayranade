@@ -12,4 +12,4 @@
 * EatLogGo: A webapp to track what you eat
   - [eatloggo.com](https://eatloggo.com)
 * Hangman: Hangman game built in VueJS
-  - [eatloggo.com](https://github.com/advayranade/hangman-github)
+  - [Hangman Github Repo](https://github.com/advayranade/hangman-github)
