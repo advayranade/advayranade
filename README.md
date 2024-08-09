@@ -14,4 +14,4 @@ Hi! My name is Advay Ranade. I am a freshman attending Homestead High School. I 
 Let's chat! Drop me an email and we can talk. 
 * **Name**: Advay R
 * **Instagram**: @advayranade_
-* **Email**: ranadeadvay (at) outlook (dot) com
+* **Email**: advaymranade (at) gmail (dot) com
