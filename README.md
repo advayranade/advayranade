@@ -1,10 +1,10 @@
 ## About Me
 Hi! My name is Advay Ranade. I am a freshman attending Homestead High School. I enjoy coding web apps and creating animations! If you have any questions or want to work together, email me through the contact me page. Thank you!
 
-## Overview
+## Skills
  * **Tools Used**: VSCode, Figma, Sketch, Github, Amazon Web Services, Git, Canva, Blender, Vercel
- * **Frameworks**: ReactNative (limited), NodeJS, Python, VueJS, jQuery, Flask, React, Next.js
- * **Languages**: HTML, CSS, Javascript, Python, Swift
+ * **Frameworks**: ReactJS, VueJS, jQuery, Next.js, Bootstrap, BootstrapJS, MaterialsUI, TailwindCSS, ReactNative, Flask 
+ * **Languages**: HTML, CSS, Javascript (NodeJS included), Typescript, Python, Swift 
  * **Learning** Java
 
 ## Stats
