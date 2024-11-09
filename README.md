@@ -3,7 +3,7 @@ I am a freshman attending Homestead High School. I enjoy coding web apps and cre
 
 ## Skills
  * **Tools Used**: VSCode, Figma, Sketch, Github, Amazon Web Services, Git, Canva, Blender, Vercel
- * **Frameworks**: ReactJS, VueJS, jQuery, Next.js, Bootstrap, BootstrapJS, MaterialsUI, TailwindCSS, ReactNative, Flask 
+ * **Frameworks**: ReactJS, VueJS, jQuery, Next.js, Bootstrap, BootstrapJS, MaterialsUI, TailwindCSS, ReactNative, Flask, shadcn/ui
  * **Languages**: HTML, CSS, Javascript (NodeJS included), Typescript, Python, Swift 
  * **Learning** Java
 
